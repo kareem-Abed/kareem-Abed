@@ -12,9 +12,7 @@ I'm Kareem Abed, a passionate Flutter developer dedicated to crafting beautiful 
 
 [![My Flutter Stats](https://github-readme-stats.vercel.app/api?username=kareem-Abed&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/kareem-Abed)
 
-## Technologies & Tools
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-Abed&layout=compact&theme=radical)](https://github.com/kareem-Abed)
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ahmed-920236244)
