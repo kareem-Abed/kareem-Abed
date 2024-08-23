@@ -8,7 +8,7 @@ I'm Kareem Abed, a passionate Flutter developer dedicated to crafting beautiful 
 - 🌐 Exploring the realms of mobile app development with Dart and Flutter.
 - 💡 Always eager to learn and share knowledge with the Flutter community.
 
-## My Flutter Stats
+## My GetHup Stats
 
 [![My Flutter Stats](https://github-readme-stats.vercel.app/api?username=kareem-Abed&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/kareem-Abed)
 
