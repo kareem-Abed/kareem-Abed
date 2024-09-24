@@ -15,7 +15,7 @@ I'm Kareem Abed, a passionate Flutter developer dedicated to crafting beautiful 
 
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ahmed-920236244)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-abed-920236244/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem-Abed)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ka7032799@gmail.com)<br />
 Feel free to explore my Flutter projects and reach out for collaboration or just to discuss Flutter and Dart! Let's create amazing mobile experiences together.
